@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @SluGGerDE
+- 👀 I’m interested in PHP, JS, CSS, HTML, MYSQL and Linux
